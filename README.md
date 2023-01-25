@@ -1,6 +1,9 @@
 ### Original theme
 https://github.com/lassekongo83/adw-gtk3
 
+### Screenshots
+![image](https://i.ibb.co/Jq7nL2C/Screenshot-from-2023-01-25-16-18-04.png)
+
 ### How to
 1. Extract the folder to ~/.local/share/themes/ (or /usr/share/themes if you want to install it for all users.)
 2. Run this comamnd to set the theme
