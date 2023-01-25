@@ -12,7 +12,9 @@ gsettings set org.gnome.desktop.interface gtk-theme 'adw-gtk3-dark' && gsettings
 ```
 
 ### Top bar menu popup background is not correct
-Set shell theme to Yaru Dark as well in Gnome Tweak
+1. Copy rkt theme in folder `gnome-shell-theme` to ~/.themes/
+2. Set gnome shell theme to `Rkt` with Gnome Tweak
+
 
 ### Flatpak app does not work with this theme
 
