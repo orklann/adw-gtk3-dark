@@ -26,6 +26,6 @@ flatpak install org.gtk.Gtk3theme.adw-gtk3 org.gtk.Gtk3theme.adw-gtk3-dark
 
 ### Make other apps that takes effects (Calulator, Text Editor ect)
 ```shell
-cp ~/.local/share/themes/adw-gtk3-dark/gtk.css ~/.config/gtk-3.0/
-cp ~/.local/share/themes/adw-gtk3-dark/gtk.css ~/.config/gtk-4.0/
+cp ~/.local/share/themes/adw-gtk3-dark/gtk-3.0/gtk.css ~/.config/gtk-3.0/
+cp ~/.local/share/themes/adw-gtk3-dark/gtk-3.0/gtk.css ~/.config/gtk-4.0/
 ```
