@@ -13,6 +13,9 @@ gsettings set org.gnome.desktop.interface gtk-theme 'adw-gtk3-dark' && gsettings
 
 ### Top bar menu popup background is not correct
 1. Copy rkt theme in folder `gnome-shell-theme` to ~/.themes/
+```shell
+cp -r gnome-shell-theme/rkt/ ~/.themes/rkt
+```
 2. Set gnome shell theme to `Rkt` with Gnome Tweak
 
 
